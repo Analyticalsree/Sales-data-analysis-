@@ -38,7 +38,7 @@ DAX Measures (Sales, Profit, Discount, Quantity, Period Comparison)
 
 Star Schema: Fact (Sales) + Dimensions (Product, Customer, Promotion, Date)
 
-##Purpose
+## Purpose
 
 To provide a complete, interactive dashboard that helps identify top-performing products, evaluate promotions, understand trends, and support better sales decisions.
 
